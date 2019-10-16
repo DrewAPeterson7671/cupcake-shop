@@ -1,0 +1,11 @@
+h1 {
+  color: blue;
+}
+ul.flashy {
+  color: red;
+  font-style: italic;
+}
+.best {
+  font-size: 20px;
+  font-family: fantasy;
+}
